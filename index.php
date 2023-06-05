@@ -23,7 +23,7 @@
 
 
     <header id="header1">
-      <div class="logo pull-left"> SHELF APPAREL</div>
+      <div class="logo pull-left"> SHELF APPARELLL</div>
       <div class="header1-content">
       <div class="header1-date pull-left" style="text-align: right;">
         <strong><?php date_default_timezone_set('America/Mexico_City'); ;echo date("d/m/Y g:i a");;?></strong>
